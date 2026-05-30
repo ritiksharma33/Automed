@@ -4,6 +4,10 @@ AutoMed Expert Engine is an advanced AI medical triage simulation application po
 
 Instead of relying on a single isolated large language model, AutoMed spins up a collaborative council of specialized AI agents. These agents debate, analyze, and cross-examine symptom data sequentially to construct a unified clinical triage report.
 
+
+https://github.com/user-attachments/assets/b32b276b-3bb3-4e9d-afb9-465dadb821d6
+
+
 ---
 
 ## ⚙️ Core Agent Architecture
