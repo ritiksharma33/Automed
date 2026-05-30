@@ -1,0 +1,11 @@
+# Ignore the local secret file containing real API keys
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments if you created one locally
+venv/
+.venv/
+env/
